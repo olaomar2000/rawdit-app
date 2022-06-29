@@ -1,4 +1,4 @@
-# arabi
+# Rawdit App
 
 A new Flutter project.
 
