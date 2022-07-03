@@ -1,16 +1,14 @@
 # Rawdit App
 
-A new Flutter project.
+Educational and tracking application for Kindergartens.
 
-## Getting Started
+## Images from app 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![sing in](https://user-images.githubusercontent.com/69324228/177047162-c7a2ad94-ce14-4eb0-8a4b-9356a85030fc.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![parent](https://user-images.githubusercontent.com/69324228/177047199-2eace432-1907-4508-8540-d1353babe86b.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![teacher](https://user-images.githubusercontent.com/69324228/177047315-06a6a05c-5957-4c66-b0bd-f28062696004.png)
+
+
